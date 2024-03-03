@@ -7,12 +7,15 @@
 
 - 🌱 I’m currently learning **Django,react**
 
-- 💬 Ask me about **Python,java,C**
+- 💬 Ask me about **Python,java,C,React,JavaScript,Html,Css**
 
 - 📫 How to reach me **harishpeddina4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/harishpersona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harishpersona" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harish-peddina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-peddina" height="30" width="40" /></a>
+<a href="https://instagram.com/haris__5102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haris__5102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
