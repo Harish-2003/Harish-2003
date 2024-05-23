@@ -24,3 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-2003&show_icons=true&locale=en&layout=compact" alt="harish-2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-2003&show_icons=true&locale=en" alt="harish-2003" /></p>
+<img src="https://raw.githubusercontent.com/Harish-2003/Harish-2003/output/snake.svg" alt="Snake animation" />
+
+###
