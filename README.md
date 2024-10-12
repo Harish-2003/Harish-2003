@@ -20,5 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-2003&show_icons=true&locale=en&layout=compact" alt="harish-2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-2003&show_icons=true&locale=en" alt="harish-2003" /></p>
+[![An image of @harish2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harish2003)](https://holopin.io/@harish2003)
 
 ###
